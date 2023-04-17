@@ -35,6 +35,8 @@ início
 	imprime "A conta é comum.";
 fim
 ```
+### Qyestões 4 e 5
+Implementadas como Lampada.java e Time.java
 ### Questão 6
 ```java
 void  abreContaSimples(String  nome){
