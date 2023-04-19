@@ -5,16 +5,16 @@ Escreva um modelo para representar uma lâmpada que está à venda em um superme
 |:-------------|
 |String marca	|
 |double preço	|
-|boolean estaLigada|
-|ligar()		|
-|desligar()		|
+|int estoque	|
+|addEstoque()	|
+|rmEstoque()	|
 |mostrarDados()	|
 ### Questão 2
 Crie um modelo para representar um time de um esporte qualquer em um campeonato desse esporte. Que dados e operações esse modelo deve ter?
 |Time		|      
 |:-------------|
 |String nome	|
-|int pontos		|
+|int pontos	|
 |int colocacao	|
 |adicionaPontos()|
 |mostrarDados()	|
@@ -35,7 +35,7 @@ início
 	imprime "A conta é comum.";
 fim
 ```
-### Qyestões 4 e 5
+### Questões 4 e 5
 Implementadas como Lampada.java e Time.java
 ### Questão 6
 ```java
